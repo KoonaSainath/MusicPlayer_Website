@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #29a19c;
+}
+h1{
+    background-color: #374045;
+    color: white;
+    margin: 2rem auto 2rem auto;
+    text-align: center;
+    width: fit-content;
+    padding: 1rem;
+}
+img{
+    
+    
+}
+
+.song_i_cant_get_enough{
+    background-image: url("images/i_cant_get_enough.png");
+}
+
+.song_shape_of_you  {
+    background-image: url("images/shape_of_you.jpeg");
+}
+
+.song_lily{
+    background-image: url("images/lily.jpg");
+}
+
+.song_mad_at_disney  {
+    background-image: url("images/mad_at_disney.jpg");
+}
+
+.song_make_you_mine{
+    background-image: url("images/make_you_mine.jpg");
+}
+
+.song_maps{
+    background-image: url("images/maps.png");
+}
+
+.song_safari  {
+    background-image: url("images/safari.jpg");
+}
+
+.song_take_you_dancing{
+    background-image: url("images/take_you_dancing.png");
+}
+
+.song_willow  {
+    background-image: url("images/willow.jpg");
+}
+
+.song_without_me  {
+    background-image: url("images/without_me.png");
+}
+
+
+.songname{
+    display: none;
+}
+
+
+.img{
+    height: 20rem;
+    width: 20rem;
+    background-size: 20rem 20rem;
+}
+
+.img:hover{
+    background-image: url("images/play.png");
+}
+
+table{
+    background-color: #706c61;
+    margin: 0 auto;
+    width: 100%;
+    padding: 5rem;
+}
+td{
+    text-align: center;
+}
+.song{
+    border: 5px #898b8a solid;
+    width: 20rem;
+    height: fit-content;
+    padding: 1rem;
+    margin: 1rem auto 1rem auto;
+}
+p{
+    color: white;
+    font-weight: bold;
+    margin: 1rem;
+}
+.copyright{
+    height: 5rem;
+    background-color: white;
+}
+.copyrighttext{
+    margin: 0;
+    padding: 2rem;
+    color: black;
+    text-align: center;
+}
