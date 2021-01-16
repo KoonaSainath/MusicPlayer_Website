@@ -58,7 +58,7 @@ function playSong(song){
             songToPlay.play();
             break;
         case "Lily":
-            var songToPlay = new Audio("Sounds/lily.mp3");
+            var songToPlay = new Audio("sounds/lily.mp3");
             songToPlay.play();
             break;
         case "Mad at disney":
